@@ -1,0 +1,1 @@
+console.log('This is a second app in dir2');
